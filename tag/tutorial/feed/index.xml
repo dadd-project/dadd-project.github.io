@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tutorial</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 06 Oct 2020 18:21:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2020/04/cropped-ICON-2-32x32.png</url>
+	<title>tutorial</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>SOCINFO2020 TUTORIAL &#8211; DISCOVERING GENDER BIAS AND DISCRIMINATION IN LANGUAGE</title>
+		<link>./../../../2020/10/06/socinfo2020-tutorial-discovering-gender-bias-and-discrimination-in-language/index.html</link>
+		
+		<dc:creator><![CDATA[tomvannuenen]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2020 18:16:23 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[digital discrimination]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=2155</guid>
+
+					<description><![CDATA[Today we presented our tutorial &#8216;DISCOVERING GENDER BIAS AND DISCRIMINATION IN LANGUAGE&#8217; at the online Socinfo2020 conference. It was a great experience for all of us, hope you all enjoyed it! The live session was recorded by the organizers and will probably be shared online very soon. The tutorial focuses on the issue of digital &#8230; <p class="link-more"><a href="./../../../2020/10/06/socinfo2020-tutorial-discovering-gender-bias-and-discrimination-in-language/index.html" class="more-link">Continue reading<span class="screen-reader-text"> "SOCINFO2020 TUTORIAL &#8211; DISCOVERING GENDER BIAS AND DISCRIMINATION IN LANGUAGE"</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Today we presented our tutorial &#8216;DISCOVERING GENDER BIAS AND DISCRIMINATION IN LANGUAGE&#8217; at the online Socinfo2020 conference. It was a great experience for all of us, hope you all enjoyed it! The live session was recorded by the organizers and will probably be shared online very soon. </p>
+
+
+
+<p>The tutorial focuses on the issue of digital discrimination, particularly towards gender. Its main goal is to help participants improve their digital literacy by understanding the social issues at stake in digital (gender) discrimination, and learning about technical applications and solutions. The tutorial is divided in four parts: it basically iterates twice through the social and technical dimensions. We make use of our own research in language modelling and Word Embeddings in order to clarify how human gender biases may be incorporated into AI/ML models. We first offer a short introduction to digital discrimination and (gender) bias. We give examples of gender discrimination in the field of AI/ML, and discuss the clear gender binary (M/F) that is presupposed when dealing with a computational bias towards gender. We then move to a technical perspective, introducing the DADD Language Bias Visualiser which allows us to discover and analyze gender bias using Word Embeddings. Finally, we show how computational models of bias and discrimination are built on implicit binaries, and discuss with participants the difficulties pertaining to these assumptions in times of post-binary gender attribution. </p>
+
+
+
+<p class="has-text-align-center"><img loading="lazy" width="976" height="693" class="wp-image-2160" style="width: 800px;" src="./../../../wp-content/uploads/2020/10/Screenshot-from-2020-10-06-19-20-31.png" alt="" srcset="./../../../wp-content/uploads/2020/10/Screenshot-from-2020-10-06-19-20-31.png 976w, ./../../../wp-content/uploads/2020/10/Screenshot-from-2020-10-06-19-20-31-300x213.png 300w, ./../../../wp-content/uploads/2020/10/Screenshot-from-2020-10-06-19-20-31-768x545.png 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

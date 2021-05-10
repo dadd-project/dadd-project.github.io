@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title></title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 06 Oct 2020 18:21:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+
+<image>
+	<url>./../wp-content/uploads/2020/04/cropped-ICON-2-32x32.png</url>
+	<title></title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>SOCINFO2020 TUTORIAL &#8211; DISCOVERING GENDER BIAS AND DISCRIMINATION IN LANGUAGE</title>
+		<link>./../2020/10/06/socinfo2020-tutorial-discovering-gender-bias-and-discrimination-in-language/index.html</link>
+		
+		<dc:creator><![CDATA[tomvannuenen]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2020 18:16:23 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[digital discrimination]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<guid isPermaLink="false">./../index.html?p=2155</guid>
+
+					<description><![CDATA[Today we presented our tutorial &#8216;DISCOVERING GENDER BIAS AND DISCRIMINATION IN LANGUAGE&#8217; at the online Socinfo2020 conference. It was a great experience for all of us, hope you all enjoyed it! The live session was recorded by the organizers and will probably be shared online very soon. The tutorial focuses on the issue of digital &#8230; <p class="link-more"><a href="./../2020/10/06/socinfo2020-tutorial-discovering-gender-bias-and-discrimination-in-language/index.html" class="more-link">Continue reading<span class="screen-reader-text"> "SOCINFO2020 TUTORIAL &#8211; DISCOVERING GENDER BIAS AND DISCRIMINATION IN LANGUAGE"</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Today we presented our tutorial &#8216;DISCOVERING GENDER BIAS AND DISCRIMINATION IN LANGUAGE&#8217; at the online Socinfo2020 conference. It was a great experience for all of us, hope you all enjoyed it! The live session was recorded by the organizers and will probably be shared online very soon. </p>
+
+
+
+<p>The tutorial focuses on the issue of digital discrimination, particularly towards gender. Its main goal is to help participants improve their digital literacy by understanding the social issues at stake in digital (gender) discrimination, and learning about technical applications and solutions. The tutorial is divided in four parts: it basically iterates twice through the social and technical dimensions. We make use of our own research in language modelling and Word Embeddings in order to clarify how human gender biases may be incorporated into AI/ML models. We first offer a short introduction to digital discrimination and (gender) bias. We give examples of gender discrimination in the field of AI/ML, and discuss the clear gender binary (M/F) that is presupposed when dealing with a computational bias towards gender. We then move to a technical perspective, introducing the DADD Language Bias Visualiser which allows us to discover and analyze gender bias using Word Embeddings. Finally, we show how computational models of bias and discrimination are built on implicit binaries, and discuss with participants the difficulties pertaining to these assumptions in times of post-binary gender attribution. </p>
+
+
+
+<p class="has-text-align-center"><img loading="lazy" width="976" height="693" class="wp-image-2160" style="width: 800px;" src="./../wp-content/uploads/2020/10/Screenshot-from-2020-10-06-19-20-31.png" alt="" srcset="./../wp-content/uploads/2020/10/Screenshot-from-2020-10-06-19-20-31.png 976w, ./../wp-content/uploads/2020/10/Screenshot-from-2020-10-06-19-20-31-300x213.png 300w, ./../wp-content/uploads/2020/10/Screenshot-from-2020-10-06-19-20-31-768x545.png 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Discovering and Categorising Language Biases in Reddit</title>
+		<link>./../2020/08/10/discovering-and-categorising-language-biases-in-reddit/index.html</link>
+		
+		<dc:creator><![CDATA[tomvannuenen]]></dc:creator>
+		<pubDate>Mon, 10 Aug 2020 09:31:18 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[bias]]></category>
+		<category><![CDATA[digital discrimination]]></category>
+		<category><![CDATA[embeddings]]></category>
+		<category><![CDATA[nlp]]></category>
+		<category><![CDATA[reddit]]></category>
+		<guid isPermaLink="false">./../index.html?p=2143</guid>
+
+					<description><![CDATA[Our article &#8220;Discovering and Categorising Language Biases in Reddit&#8221; was accepted last week at the International Conference on Web and Social Media 2021 (ICWSM 2021). Although the proceedings will not be ready until early 2021, you can find the author&#8217;s version of the paper here. We present a method to explore language bias in various &#8230; <p class="link-more"><a href="./../2020/08/10/discovering-and-categorising-language-biases-in-reddit/index.html" class="more-link">Continue reading<span class="screen-reader-text"> "Discovering and Categorising Language Biases in Reddit"</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Our article &#8220;<a href="https://www.researchgate.net/publication/343498904_Discovering_and_Categorising_Language_Biases_in_Reddit">Discovering and Categorising Language Biases in Reddit</a>&#8221; was accepted last week at the International Conference on Web and Social Media 2021 (ICWSM 2021). Although the proceedings will not be ready until early 2021, you can find the author&#8217;s version of the paper <a href="https://www.researchgate.net/publication/343498904_Discovering_and_Categorising_Language_Biases_in_Reddit">here</a>. </p>
+
+
+
+<p>We present a method to explore language bias in various Reddit communities by comparing the words most closely correlated with different concepts leveraging the embedding space of each community. In this way, we study gender bias in r/TheRedPill, religion bias in r/Atheism, and ethnicity bias in r/The_Donald, and discover important biases that, for instance in r/TheRedPill, picture women with words related to externality and physical appearance such as <em>flirtatious</em> and <em>fuckable</em>, and men through descriptive adjectives serving as indicators of subjectivity such as <em>visionary</em> and <em>tactician</em> (see our <a href="https://xfold.github.io/WE-GenderBiasVisualisationWeb/">Bias Visualisation Tool</a>).</p>
+
+
+
+<p>Also, in case you are interested in analysing language biases in your own datasets, we are also sharing the code <a href="https://github.com/xfold/LanguageBiasesInReddit">here</a>. Please use it and feel free to ask any questions or report any errors/problems you find on Github!</p>
+
+
+
+<p><strong>Abstract.</strong> <em>We present a data-driven approach using word embeddings to discover and categorise language biases on the discussion platform Reddit. As spaces for isolated user communities, platforms such as Reddit are increasingly connected to issues of racism, sexism and other forms of discrimination. Hence, there is a need to monitor the language of these groups. One of the most promising AI approaches to trace linguistic biases in large textual datasets involves word embeddings, which transform text into high-dimensional dense vectors and capture semantic relations between words. Yet, previous studies require predefined sets of potential biases to study, e.g., whether gender is more or less associated with particular types of jobs. This makes these approaches unfit to deal with smaller and community-centric datasets such as those on Reddit, which contain smaller vocabularies and slang, as well as biases that may be particular to that community. This paper proposes a data-driven approach to automatically discover language biases encoded in the vocabulary of online discourse communities on Reddit. In our approach, protected attributes are connected to evaluative words found in the data, which are then categorised through a semantic analysis system. We verify the effectiveness of our method by comparing the biases we discover in the Google News dataset with those found in previous literature. We then successfully discover gender bias, religion bias, and ethnic bias in different Reddit communities. We conclude by discussing potential application scenarios and limitations of this data-driven bias discovery method.</em></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>A Normative Approach to Attest Digital Discrimination</title>
+		<link>./../2020/08/03/a-normative-approach-to-attest-digital-discrimination/index.html</link>
+		
+		<dc:creator><![CDATA[tomvannuenen]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2020 09:16:21 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[digital discrimination]]></category>
+		<category><![CDATA[github]]></category>
+		<guid isPermaLink="false">./../index.html?p=2141</guid>
+
+					<description><![CDATA[Our new article &#8220;A Normative Approach to Attest Digital Discrimination&#8221; has been accepted in the Advancing Towards the SDGS Artificial Intelligence for a Fair, Just and Equitable World Workshop (AI4EQ) of the 24th European Conference on Artificial Intelligence (ECAI&#8217;20)! In the paper we formalise non-discrimination norms in the context of ML systems and propose an &#8230; <p class="link-more"><a href="./../2020/08/03/a-normative-approach-to-attest-digital-discrimination/index.html" class="more-link">Continue reading<span class="screen-reader-text"> "A Normative Approach to Attest Digital Discrimination"</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Our new article &#8220;<a href="https://www.researchgate.net/publication/342944510_A_Normative_approach_to_Attest_Digital_Discrimination">A Normative Approach to Attest Digital Discrimination</a>&#8221; has been accepted in the Advancing Towards the SDGS Artificial Intelligence for a Fair, Just and Equitable World Workshop (AI4EQ) of the 24th European Conference on Artificial Intelligence (ECAI&#8217;20)!</p>
+
+
+
+<p>In the paper we formalise non-discrimination norms in the context of ML systems and propose an algorithm to check whether ML systems violate these norms. The code is publicly available <a href="https://github.com/xfold/NormativeApproachToDiscrimination">here</a>. </p>
+
+
+
+<p><strong>Abstract.</strong> <em>Digital discrimination is a form of discrimination whereby users are automatically treated unfairly, unethically or just differently based on their personal data by a machine learning (ML) system. Examples of digital discrimination include low-income neighbourhood&#8217;s targeted with high-interest loans or low credit scores, and women being undervalued by 21% in online marketing. Recently, different techniques and tools have been proposed to detect biases that may lead to digital discrimination. These tools often require technical expertise to be executed and for their results to be interpreted. To allow non-technical users to benefit from ML, simpler notions and concepts to represent and reason about digital discrimination are needed. In this paper, we use norms as an abstraction to represent different situations that may lead to digital discrimination. In particular, we formalise non-discrimination norms in the context of ML systems and propose an algorithm to check whether ML systems violate these norms.</em></p>
+
+
+
+<p></p>
+
+
+
+<p><br><br></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>New article on transparent AI</title>
+		<link>./../2020/06/17/new-article-on-transparent-ai-in-computer-magazine/index.html</link>
+		
+		<dc:creator><![CDATA[tomvannuenen]]></dc:creator>
+		<pubDate>Wed, 17 Jun 2020 10:58:22 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../index.html?p=2134</guid>
+
+					<description><![CDATA[Tom, Xavi, Jose and Mark wrote an article on transparency in AI and how the concept means different things for different stakeholders and disciplines. It will be published in IEEE Computer Magazine; the pre-print version is now available on Research Gate. https://www.researchgate.net/publication/342082930_Transparency_for_whom_Assessing_discriminatory_AI Abstract: AI decision-making can cause discriminatory harm to many vulnerable groups. Redress is &#8230; <p class="link-more"><a href="./../2020/06/17/new-article-on-transparent-ai-in-computer-magazine/index.html" class="more-link">Continue reading<span class="screen-reader-text"> "New article on transparent AI"</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Tom, Xavi, Jose and Mark wrote an article on transparency in AI and how the concept means different things for different stakeholders and disciplines. It will be published in IEEE Computer Magazine; the pre-print version is now available on Research Gate.</p>
+
+
+
+<p><a href="https://www.researchgate.net/publication/342082930_Transparency_for_whom_Assessing_discriminatory_AI">https://www.researchgate.net/publication/342082930_Transparency_for_whom_Assessing_discriminatory_AI</a></p>
+
+
+
+<p><em>Abstract: AI decision-making can cause discriminatory harm to many vulnerable groups. Redress is often suggested through increased transparency of these systems. But who are we implementing it for? This article seeks to identify what transparency means for technical, legislative and public realities and stakeholders.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DADD x SGL app</title>
+		<link>./../2020/04/01/dadd-x-sgl-app/index.html</link>
+		
+		<dc:creator><![CDATA[tomvannuenen]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2020 11:12:27 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../index.html?p=2109</guid>
+
+					<description><![CDATA[Unfortunately, the DADD workshop at Science Gallery London was canceled due to COVID-19. We would however like to share the wonderful app that Steve Brown built for the exhibit, which uses Word Embeddings models built by DADD. Users play a small game to explore language bias in a Google News dataset, and The Red Pill, &#8230; <p class="link-more"><a href="./../2020/04/01/dadd-x-sgl-app/index.html" class="more-link">Continue reading<span class="screen-reader-text"> "DADD x SGL app"</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Unfortunately, the DADD workshop at Science Gallery London was canceled due to COVID-19. We would however like to share the wonderful app that Steve Brown built for the exhibit, which uses Word Embeddings models built by DADD. Users play a small game to explore language bias in a Google News dataset, and The Red Pill, a notorious community on Reddit.</p>
+
+
+
+<p>See <a href="http://sgl.stevebrown.co/dadd">http://sgl.stevebrown.co/dadd</a> to play the game and learn more.</p>
+
+
+
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="531" src="./../wp-content/uploads/2020/04/Screenshot-2020-04-01-at-14.13.38-1024x531.png" alt="" data-id="2111" data-full-url="./../wp-content/uploads/2020/04/Screenshot-2020-04-01-at-14.13.38.png" data-link="./../2020/04/01/dadd-x-sgl-app/screenshot-2020-04-01-at-14-13-38/index.html" class="wp-image-2111" srcset="./../wp-content/uploads/2020/04/Screenshot-2020-04-01-at-14.13.38-1024x531.png 1024w, ./../wp-content/uploads/2020/04/Screenshot-2020-04-01-at-14.13.38-300x156.png 300w, ./../wp-content/uploads/2020/04/Screenshot-2020-04-01-at-14.13.38-768x398.png 768w, ./../wp-content/uploads/2020/04/Screenshot-2020-04-01-at-14.13.38-1536x797.png 1536w, ./../wp-content/uploads/2020/04/Screenshot-2020-04-01-at-14.13.38-2048x1063.png 2048w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure></li></ul></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DADD Video Lectures: Bias and Discrimination, Interviewing</title>
+		<link>./../2020/03/26/bias-and-discrimination-web-lecture/index.html</link>
+		
+		<dc:creator><![CDATA[tomvannuenen]]></dc:creator>
+		<pubDate>Thu, 26 Mar 2020 14:27:50 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../index.html?p=2105</guid>
+
+					<description><![CDATA[We have uploaded a web lecture introducing you to issues of bias and discrimination in machine learning, with a particular focus on gender. Dr. Mark Cote and dr. Xavier Ferrer explain digital discrimination and gender bias. They also introduce the DADD Language Bias Visualiser, a Word Embeddings-powered tool to explore language biases towards gender in &#8230; <p class="link-more"><a href="./../2020/03/26/bias-and-discrimination-web-lecture/index.html" class="more-link">Continue reading<span class="screen-reader-text"> "DADD Video Lectures: Bias and Discrimination, Interviewing"</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>We have uploaded a web lecture introducing you to issues of bias and discrimination in machine learning, with a particular focus on gender. Dr. Mark Cote and dr. Xavier Ferrer explain digital discrimination and gender bias. They also introduce the DADD Language Bias Visualiser, a Word Embeddings-powered tool to explore language biases towards gender in several Reddit datasets and the Google News dataset.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Bias and Discrimination - Web Lecture" width="525" height="295" src="https://www.youtube.com/embed/AoF0ahsFakE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Our research student Héloïse Eloi-Hammer has also made a video explaining interviewing as a method: how to go about interviewing, and how to analyze interviews using software such as NVivo.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Interviews as a research method" width="525" height="394" src="https://www.youtube.com/embed/3xknDbnxkQ0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DADD Video Lectures &#8211; Word Embeddings and language bias</title>
+		<link>./../2020/03/21/dadd-video-lectures-word-embeddings-and-language-bias/index.html</link>
+		
+		<dc:creator><![CDATA[tomvannuenen]]></dc:creator>
+		<pubDate>Sat, 21 Mar 2020 07:55:44 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../index.html?p=2103</guid>
+
+					<description><![CDATA[Tom. recorded the first DADD video lecture on word embeddings and language bias, in the context of the DADD Language Bias Visualiser. Check it out on YouTube:]]></description>
+										<content:encoded><![CDATA[
+<p>Tom. recorded the first DADD video lecture on word embeddings and language bias, in the context of the DADD Language Bias Visualiser. Check it out on YouTube:</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="DADD Word Embeddings" width="525" height="295" src="https://www.youtube.com/embed/wNDzjUn6h58?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DADD Language Bias Visualiser</title>
+		<link>./../2020/03/14/dadd-language-bias-visualiser/index.html</link>
+		
+		<dc:creator><![CDATA[tomvannuenen]]></dc:creator>
+		<pubDate>Sat, 14 Mar 2020 17:31:01 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../index.html?p=2095</guid>
+
+					<description><![CDATA[The DADD Language Bias Visualiser is online! The team has used Word Embeddings to connect target concepts such as `male&#8217; or `female&#8217; to evaluative attributes found in online data, which are then categorised through clustering algorithms and labelled through a semantic analysis system into more general (conceptual) biases. Categorising biases allows us to give a &#8230; <p class="link-more"><a href="./../2020/03/14/dadd-language-bias-visualiser/index.html" class="more-link">Continue reading<span class="screen-reader-text"> "DADD Language Bias Visualiser"</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>The DADD Language Bias Visualiser is online! The team has used Word Embeddings to connect target concepts such as `male&#8217; or `female&#8217;  to evaluative attributes found in online data, which are then categorised through clustering algorithms and labelled through a semantic analysis system into more general (conceptual) biases. Categorising biases allows us to give a broad picture of the biases present in discourse communities, such as those on Reddit.</p>
+
+
+
+<p>Check it out at <a href="https://xfold.github.io/WE-GenderBiasVisualisationWeb/">https://xfold.github.io/WE-GenderBiasVisualisationWeb/</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="375" src="./../wp-content/uploads/2020/03/Screenshot-2020-03-14-at-19.28.21-1024x375.png" alt="" class="wp-image-2096" srcset="./../wp-content/uploads/2020/03/Screenshot-2020-03-14-at-19.28.21-1024x375.png 1024w, ./../wp-content/uploads/2020/03/Screenshot-2020-03-14-at-19.28.21-300x110.png 300w, ./../wp-content/uploads/2020/03/Screenshot-2020-03-14-at-19.28.21-768x281.png 768w, ./../wp-content/uploads/2020/03/Screenshot-2020-03-14-at-19.28.21-1536x562.png 1536w, ./../wp-content/uploads/2020/03/Screenshot-2020-03-14-at-19.28.21-2048x750.png 2048w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="358" src="./../wp-content/uploads/2020/03/Screenshot-2020-03-14-at-19.28.13-1024x358.png" alt="" class="wp-image-2098" srcset="./../wp-content/uploads/2020/03/Screenshot-2020-03-14-at-19.28.13-1024x358.png 1024w, ./../wp-content/uploads/2020/03/Screenshot-2020-03-14-at-19.28.13-300x105.png 300w, ./../wp-content/uploads/2020/03/Screenshot-2020-03-14-at-19.28.13-768x269.png 768w, ./../wp-content/uploads/2020/03/Screenshot-2020-03-14-at-19.28.13-1536x537.png 1536w, ./../wp-content/uploads/2020/03/Screenshot-2020-03-14-at-19.28.13-2048x716.png 2048w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="507" src="./../wp-content/uploads/2020/03/Screenshot-2020-03-14-at-19.27.57-1024x507.png" alt="" class="wp-image-2100" srcset="./../wp-content/uploads/2020/03/Screenshot-2020-03-14-at-19.27.57-1024x507.png 1024w, ./../wp-content/uploads/2020/03/Screenshot-2020-03-14-at-19.27.57-300x149.png 300w, ./../wp-content/uploads/2020/03/Screenshot-2020-03-14-at-19.27.57-768x380.png 768w, ./../wp-content/uploads/2020/03/Screenshot-2020-03-14-at-19.27.57-1536x761.png 1536w, ./../wp-content/uploads/2020/03/Screenshot-2020-03-14-at-19.27.57-2048x1014.png 2048w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>4Chan and the alt-right workshop at King&#8217;s College London</title>
+		<link>./../2019/05/21/4chan-and-the-alt-right-workshop-at-kings-college-london/index.html</link>
+		
+		<dc:creator><![CDATA[tomvannuenen]]></dc:creator>
+		<pubDate>Tue, 21 May 2019 19:01:58 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../index.html?p=2013</guid>
+
+					<description><![CDATA[DADD was present at a workshop on digital methods to analyse web platforms such as 4Chan. The workshop was organised by the Department of War Studies at King&#8217;s College London. It was widely attended by staff and industry professionals, as the questions raised about radicalisation, weaponisation, and anonymity on such web platforms are in the &#8230; <p class="link-more"><a href="./../2019/05/21/4chan-and-the-alt-right-workshop-at-kings-college-london/index.html" class="more-link">Continue reading<span class="screen-reader-text"> "4Chan and the alt-right workshop at King&#8217;s College London"</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>DADD was present at a workshop on digital methods to analyse web platforms such as 4Chan. The workshop was organised by the Department of War Studies at King&#8217;s College London. It was widely attended by staff and industry professionals, as the questions raised about radicalisation, weaponisation, and anonymity on such web platforms are in the center of attention.</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="768" src="./../wp-content/uploads/2019/05/D6rZqugW0AAxqqp-1024x768.jpg" alt="" class="wp-image-2014" srcset="./../wp-content/uploads/2019/05/D6rZqugW0AAxqqp-1024x768.jpg 1024w, ./../wp-content/uploads/2019/05/D6rZqugW0AAxqqp-300x225.jpg 300w, ./../wp-content/uploads/2019/05/D6rZqugW0AAxqqp-768x576.jpg 768w, ./../wp-content/uploads/2019/05/D6rZqugW0AAxqqp.jpg 1200w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DADD Workshop at King&#8217;s College London</title>
+		<link>./../2018/08/15/wordpress-resources-at-siteground/index.html</link>
+					<comments>./../2018/08/15/wordpress-resources-at-siteground/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Wed, 15 Aug 2018 11:50:35 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../2018/08/15/wordpress-resources-at-siteground/index.html</guid>
+
+					<description><![CDATA[On March 4, 2019, the DADD team was joined by José Ortega from BigML for a workshop on machine learning and digital discrimination. BigML offers a web-based Machine Learning platform that includes a selection of robustly-engineered Machine Learning algorithms, both supervised and unsupervised, such as classification and regression, cluster analysis, anomaly detection, and topic modeling. &#8230; <p class="link-more"><a href="./../2018/08/15/wordpress-resources-at-siteground/index.html" class="more-link">Continue reading<span class="screen-reader-text"> "DADD Workshop at King&#8217;s College London"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>On March 4, 2019, the DADD team was joined by José Ortega from <b>BigML </b>for a workshop on machine learning and digital discrimination.</p>
+<p>BigML offers a web-based Machine Learning platform that includes a selection of robustly-engineered Machine Learning algorithms, both supervised and unsupervised, such as classification and regression, cluster analysis, anomaly detection, and topic modeling.</p>
+<p>Students at the Department of Digital Humanities worked with BigML&#8217;s platform to discover discriminatory patterns in different, real-world datasets. They also presented their findings in one-minute presentations. The key takeaway of the day: datasets rarely are obviously discriminatory. Pruning the dataset and tracing proxy variables are key practices!</p>
+<p> </p>
+
+
+<ul class="wp-block-gallery columns-3 is-cropped"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="768" src="./../wp-content/uploads/2019/05/D005ibuXQAA38ou-1-1024x768.jpg" alt="" data-id="2003" data-link="./../2018/08/15/wordpress-resources-at-siteground/d005ibuxqaa38ou-1/index.html" class="wp-image-2003" srcset="./../wp-content/uploads/2019/05/D005ibuXQAA38ou-1-1024x768.jpg 1024w, ./../wp-content/uploads/2019/05/D005ibuXQAA38ou-1-300x225.jpg 300w, ./../wp-content/uploads/2019/05/D005ibuXQAA38ou-1-768x576.jpg 768w, ./../wp-content/uploads/2019/05/D005ibuXQAA38ou-1.jpg 1200w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="768" src="./../wp-content/uploads/2019/05/D005iavWoAAGIGj-1024x768.jpg" alt="" data-id="2004" data-link="./../2018/08/15/wordpress-resources-at-siteground/d005iavwoaagigj/index.html" class="wp-image-2004" srcset="./../wp-content/uploads/2019/05/D005iavWoAAGIGj-1024x768.jpg 1024w, ./../wp-content/uploads/2019/05/D005iavWoAAGIGj-300x225.jpg 300w, ./../wp-content/uploads/2019/05/D005iavWoAAGIGj-768x576.jpg 768w, ./../wp-content/uploads/2019/05/D005iavWoAAGIGj.jpg 1200w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="768" src="./../wp-content/uploads/2019/05/D005iadX4AAVW1v-1024x768.jpg" alt="" data-id="2005" data-link="./../2018/08/15/wordpress-resources-at-siteground/d005iadx4aavw1v/index.html" class="wp-image-2005" srcset="./../wp-content/uploads/2019/05/D005iadX4AAVW1v-1024x768.jpg 1024w, ./../wp-content/uploads/2019/05/D005iadX4AAVW1v-300x225.jpg 300w, ./../wp-content/uploads/2019/05/D005iadX4AAVW1v-768x576.jpg 768w, ./../wp-content/uploads/2019/05/D005iadX4AAVW1v.jpg 1200w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure></li></ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../2018/08/15/wordpress-resources-at-siteground/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

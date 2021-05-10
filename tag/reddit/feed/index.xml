@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>reddit</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 10 Aug 2020 10:15:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2020/04/cropped-ICON-2-32x32.png</url>
+	<title>reddit</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Discovering and Categorising Language Biases in Reddit</title>
+		<link>./../../../2020/08/10/discovering-and-categorising-language-biases-in-reddit/index.html</link>
+		
+		<dc:creator><![CDATA[tomvannuenen]]></dc:creator>
+		<pubDate>Mon, 10 Aug 2020 09:31:18 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[bias]]></category>
+		<category><![CDATA[digital discrimination]]></category>
+		<category><![CDATA[embeddings]]></category>
+		<category><![CDATA[nlp]]></category>
+		<category><![CDATA[reddit]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=2143</guid>
+
+					<description><![CDATA[Our article &#8220;Discovering and Categorising Language Biases in Reddit&#8221; was accepted last week at the International Conference on Web and Social Media 2021 (ICWSM 2021). Although the proceedings will not be ready until early 2021, you can find the author&#8217;s version of the paper here. We present a method to explore language bias in various &#8230; <p class="link-more"><a href="./../../../2020/08/10/discovering-and-categorising-language-biases-in-reddit/index.html" class="more-link">Continue reading<span class="screen-reader-text"> "Discovering and Categorising Language Biases in Reddit"</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Our article &#8220;<a href="https://www.researchgate.net/publication/343498904_Discovering_and_Categorising_Language_Biases_in_Reddit">Discovering and Categorising Language Biases in Reddit</a>&#8221; was accepted last week at the International Conference on Web and Social Media 2021 (ICWSM 2021). Although the proceedings will not be ready until early 2021, you can find the author&#8217;s version of the paper <a href="https://www.researchgate.net/publication/343498904_Discovering_and_Categorising_Language_Biases_in_Reddit">here</a>. </p>
+
+
+
+<p>We present a method to explore language bias in various Reddit communities by comparing the words most closely correlated with different concepts leveraging the embedding space of each community. In this way, we study gender bias in r/TheRedPill, religion bias in r/Atheism, and ethnicity bias in r/The_Donald, and discover important biases that, for instance in r/TheRedPill, picture women with words related to externality and physical appearance such as <em>flirtatious</em> and <em>fuckable</em>, and men through descriptive adjectives serving as indicators of subjectivity such as <em>visionary</em> and <em>tactician</em> (see our <a href="https://xfold.github.io/WE-GenderBiasVisualisationWeb/">Bias Visualisation Tool</a>).</p>
+
+
+
+<p>Also, in case you are interested in analysing language biases in your own datasets, we are also sharing the code <a href="https://github.com/xfold/LanguageBiasesInReddit">here</a>. Please use it and feel free to ask any questions or report any errors/problems you find on Github!</p>
+
+
+
+<p><strong>Abstract.</strong> <em>We present a data-driven approach using word embeddings to discover and categorise language biases on the discussion platform Reddit. As spaces for isolated user communities, platforms such as Reddit are increasingly connected to issues of racism, sexism and other forms of discrimination. Hence, there is a need to monitor the language of these groups. One of the most promising AI approaches to trace linguistic biases in large textual datasets involves word embeddings, which transform text into high-dimensional dense vectors and capture semantic relations between words. Yet, previous studies require predefined sets of potential biases to study, e.g., whether gender is more or less associated with particular types of jobs. This makes these approaches unfit to deal with smaller and community-centric datasets such as those on Reddit, which contain smaller vocabularies and slang, as well as biases that may be particular to that community. This paper proposes a data-driven approach to automatically discover language biases encoded in the vocabulary of online discourse communities on Reddit. In our approach, protected attributes are connected to evaluative words found in the data, which are then categorised through a semantic analysis system. We verify the effectiveness of our method by comparing the biases we discover in the Google News dataset with those found in previous literature. We then successfully discover gender bias, religion bias, and ethnic bias in different Reddit communities. We conclude by discussing potential application scenarios and limitations of this data-driven bias discovery method.</em></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
